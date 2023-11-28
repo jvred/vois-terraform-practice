@@ -7,12 +7,12 @@ variable "my-oci-region" {
  
 variable "my-oci-tenancy_id" {
     type = string
-    default = "ocid1.tenancy.oc1..aaaaaaaabyckwkntv5pb2fe62pruenyquabphyppew5oj4c27rtex5uur5qq"
+    default = "ocid1.tenancy.oc1..XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
  
 }
  
 variable "my-oci-user_ocid" {
     type = string
-    default = "ocid1.user.oc1..aaaaaaaawaalcawnvlm3pmldbg5rq6f32hxifqmgg3k4fxlprnwb5hw5726q"
+    default = "ocid1.user.oc1..XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
  
 }
